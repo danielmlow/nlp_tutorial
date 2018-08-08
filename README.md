@@ -3,7 +3,8 @@ Friendly intro to vector semantics, neural networks, and PCA
 
 ## How to run code in this tutorial (TODO)
 
-Unzip zip files in your local directory.
+After cloning the repository, also download this file into your local directory:
+https://www.dropbox.com/s/5fmudhifzqq46vc/glove.6B.50d.txt?dl=0 
 
 **Dependencies**
 pandas
