@@ -1,0 +1,1000 @@
+The enzyme catalyses the adenylation of ThiS, a sulfur carrier protein involved in the biosynthesis of thiamine.
+Malonyl CoA reductase) is an enzyme with systematic name malonate semialdehyde:NADP+ oxidoreductase.
+      
+      
+This enzyme belongs to the family of transferases, specifically those transferring phosphorus-containing groups with an alcohol group as acceptor.
+This enzyme belongs to the family of lyases, specifically the hydro-lyases, which cleave carbon-oxygen bonds.
+      
+Thus, the two substrates of this enzyme are S-adenosyl methionine and 2-iodophenol, whereas its two products are S-adenosylhomocysteine and 2-iodophenol methyl ether.
+    {\displaystyle \rightleftharpoons }
+These enzymes catalyse the hydrolysis of sphingomyelin, resulting in the formation of ceramide 1-phosphate and choline:
+In enzymology, a Cd2+-exporting ATPase is an enzyme that catalyzes the chemical reaction
+L-homoserine to form H2O, NH3 and 2-oxobutanoate
+      
+This enzyme belongs to the family of hydrolases, specifically those acting on phosphoric monoester bonds.
+      
+    {\displaystyle \rightleftharpoons }
+   L(or D)-serine + phosphate
+In enzymology, a 2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase is an enzyme that catalyzes the chemical reaction
+      
+The systematic name of this enzyme class is S-adenosyl-L-methionine:amine N-methyltransferase.
+      
+        ⇌
+This enzyme belongs to the family of transferases, specifically those acyltransferases transferring groups other than aminoacyl groups.
+        ⇌
+This enzyime contains FAD as prosthetic group.
+CDP-abequose synthase) is an enzyme with systematic name CDP-alpha-D-abequose:NADP+ 4-oxidoreductase.
+Other names in common use include dialkyl amino acid decarboxylase, alpha-dialkyl amino acid transaminase, 2,2-dialkyl-2-amino acid-pyruvate aminotransferase, L-alanine-alpha-ketobutyrate aminotransferase, dialkylamino-acid decarboxylase, and 2,2-dialkylglycine carboxy-lyase.
+This enzyme catalyses the following chemical reaction
+      
+This enzyme participates in penicillin and cephalosporin biosynthesis.
+   leukotriene D4 + L-glutamate
+Methylphenyltetrahydropyridine N-monooxygenase is an enzyme with systematic name 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine:oxygen N-oxidoreductase.
+This enzyme participates in glyoxylate and dicarboxylate metabolism.
+Hepatitis A 3C protease cleaves NEMO at the Q304 residue; NEMO is a NF-κB essential modulator responsible for activation of interferon antiviral response.
+This enzyme catalyses the following chemical reaction
+The systematic name of this enzyme class is protopine,NADPH:oxygen oxidoreductase.
+This enzyme is formed from pig pepsinogen B.
+(2Z,6E)-farnesyl diphosphate + n isopentenyl diphosphate 
+The systematic name of this enzyme class is 3-methyl-2-oxobutanoate:NAD+ 2-oxidoreductase.
+Tyrosine-specific protein phosphatases catalyse the removal of a phosphate group attached to a tyrosine residue, using a cysteinyl-phosphate enzyme intermediate.
+      
+      
+The 3 substrates of this enzyme are ATP,-3alpha,7alpha-dihydroxy-5beta-cholestan-26-oate, and CoA, whereas its 3 products are AMP, diphosphate, and-3alpha,7alpha-dihydroxy-5beta-cholestanoyl-CoA.
+      
+This enzyme catalyses the following chemical reaction
+Thus, the two substrates of this enzyme are L-cysteine and [[[enzyme]-cysteine]], whereas its two products are L-alanine and [[[enzyme]-S-sulfanylcysteine]].
+      
+        ⇌
+      
+This enzyme catalyses the following chemical reaction
+The 3 substrates of this enzyme are D-ribitol 5-phosphate, NAD+, and NADP+, whereas its 4 products are D-ribulose 5-phosphate, NADH, NADPH, and H+.
+    {\displaystyle \rightleftharpoons }
+      
+Thus, the two substrates of this enzyme are L-histidinol and NAD+, whereas its 3 products are L-histidine, NADH, and H+.
+The systematic name of this enzyme class is UDP-D-glucose:(S)-4-hydroxymandelonitrile beta-D-glucosyltransferase.
+The 5 substrates of this enzyme are 4-aminobenzoate, NADH, NADPH, H+, and O2, whereas its 5 products are 4-hydroxyaniline, NAD+, NADP+, H2O, and CO2.
+        ⇌
+      
+This enzyme catalyses the following chemical reaction
+Eliminative cleavage of-α-D-galacturonan to give oligosaccharides with 4-deoxy-α-D-galact-4-enuronosyl groups at their non-reducing ends
+      
+Thus, the two substrates of this enzyme are diphospho-myo-inositol polyphosphate and H2O, whereas its two products are myo-inositol polyphosphate and phosphate.
+      
+This enzyme belongs to the family of glycosyltransferases, specifically the pentosyltransferases.
+This enzyme belongs to the family of isomerases, specifically those racemases and epimerases acting on amino acids and derivatives.
+      
+Thus, the two substrates of this enzyme are palmitoyl-CoA and myelin proteolipid, whereas its two products are CoA and O-palmitoyl-myelin proteolipid.
+Thus, the two substrates of this enzyme are ATP and agmatine, whereas its two products are ADP and N4-phosphoagmatine.
+Thus, the two substrates of this enzyme are glutathione and lipid hydroperoxide, whereas its 3 products are glutathione disulfide, lipid, and H2O.
+        ⇌
+This enzyme catalyses the following chemical reaction
+      
+This enzyme catalyses the following chemical reaction
+The 4 substrates of this enzyme are 2-nitrophenol, NADPH, H+, and O2, whereas its 4 products are catechol, nitrite, NADP+, and H2O.
+The systematic name of this enzyme class is dolichyl-beta-D-mannosyl-phosphate dolichylphosphohydrolase.
+   ADP + [myosin heavy-chain] phosphate
+      
+In enzymology, an acyl-CoA dehydrogenase is an enzyme that catalyzes the chemical reaction
+This enzyme belongs to the family of lyases, specifically the hydro-lyases, which cleave carbon-oxygen bonds.
+    {\displaystyle \rightleftharpoons }
+In enzymology, an abscisic-aldehyde oxidase is an enzyme that catalyzes the chemical reaction
+This enzyme participates in pyruvate metabolism and carbon fixation.
+In enzymology, a hydroxymethylglutaryl-CoA hydrolase is an enzyme that catalyzes the chemical reaction
+This enzyme catalyses the following chemical reaction
+The systematic name of this enzyme class is uracil hydro-lyase.
+        ⇌
+Propanoyl-CoA C-acyltransferase belongs to the thiolase family of enzymes.
+      
+This enzyme participates in pantothenate and coa biosynthesis.
+This enzyme participates in biosynthesis of steroids.
+      
+In enzymology, an omega-amidase is an enzyme that catalyzes the chemical reaction
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the aldehyde or oxo group of donor with NAD+ or NADP+ as acceptor.
+    {\displaystyle \rightleftharpoons }
+HMG-CoA reductase is the rate-controlling enzyme of the mevalonate pathway, the metabolic pathway that produces cholesterol and other isoprenoids.
+      
+This enzyme is also called acetyl coenzyme A: 10-hydroxytaxane O-acetyltransferase.
+      
+        ⇌
+   ADP + [isocitrate dehydrogenase] phosphate
+    {\displaystyle \rightleftharpoons }
+Thus, the two substrates of this enzyme are-hexadec-11-enoyl-[acyl-carrier-protein] and malonyl-[acyl-carrier-protein], whereas its 3 products are-3-oxooctadec-13-enoyl-[acyl-carrier-protein], CO2, and acyl-carrier-protein.
+The systematic name of this enzyme class is UDP-glucose:flavonol 7-O-beta-D-glucosyltransferase.
+        ⇌
+        ⇌
+In enzymology, a heparin lyase is an enzyme that catalyzes the chemical reaction
+      
+In enzymology, a 4-hydroxymandelate synthase is an enzyme that catalyzes the chemical reaction
+This enzyme participates in androgen and estrogen metabolism.
+The crystal structure of Ftr, determined to a reveals a homotetramer composed essentially of two dimers.
+This enzyme participates in c5-branched dibasic acid metabolism.
+      
+    {\displaystyle \rightleftharpoons }
+        ⇌
+This enzyme participates in limonene and pinene degradation.
+      
+This enzyme belongs to the family of lyases, specifically the class of carbon-halide lyases.
+      
+Other names in common use include deamido-NAD+ pyrophosphorylase, nicotinate mononucleotide adenylyltransferase, deamidonicotinamide adenine dinucleotide pyrophosphorylase, NaMN-ATase, and nicotinic acid mononucleotide adenylyltransferase.
+   3-oxopimeloyl-CoA + NADH + H+
+They are grouped as either assimilatory or dissimilatory sulfite reductases depending on their function, their spectroscopic properties, and their catalytic properties.
+    {\displaystyle \rightleftharpoons }
+      
+    {\displaystyle \rightleftharpoons }
+In enzymology, a pyridoxine 4-dehydrogenase is an enzyme that catalyzes the chemical reaction
+      
+        ⇌
+   1D-myo-inositol 1,2,3,4,5-pentakisphosphate + phosphate
+This enzyme participates in glycine, serine and threonine metabolism.
+Hence, this enzyme has one substrate, UDP-L-arabinose, and one product, UDP-D-xylose.
+      
+      
+Choline-phosphate cytidylyltransferase is an enzyme that catalyzes the chemical reaction
+    {\displaystyle \rightleftharpoons }
+Peroxiredoxins are a ubiquitous family of antioxidant enzymes that also control cytokine-induced peroxide levels and thereby mediate signal transduction in mammalian cells.
+   CoA + benzyl benzoate
+        ⇌
+In enzymology, a leghemoglobin reductase is an enzyme that catalyzes the chemical reaction
+The systematic name of this enzyme class is-lactaldehyde:NAD+ oxidoreductase.
+      
+      
+Tyrosinase is an oxidase that is the rate-limiting enzyme for controlling the production of melanin.
+      
+UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase is an enzyme with systematic name UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine:2-oxoglutarate aminotransferase.
+      
+        ⇌
+NAD-malic enzyme is one of three decarboxylation enzymes used in the inorganic carbon concentrating mechanisms of C4 and CAM plants.
+This enzyme is isolated from Abies grandis.
+        ⇌
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the aldehyde or oxo group of donor with other acceptors.
+        ⇌
+Thus, the two substrates of this enzyme are L-iditol and NAD+, whereas its 3 products are L-sorbose, NADH, and H+.
+Other names in common use include selenocysteine reductase, and selenocysteine beta-lyase.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-NH group of donors with NAD+ or NADP+ as acceptor.
+This enzyme is extracted from bacterium Arthrobacter nicotinovorans.
+The enzyme from the bacterium Rhodovulum sulfidophilum binds molybdopterin guanine dinucleotide, heme b and [4Fe-4S] clusters.
+      
+This enzyme catalyses the following chemical reaction
+The systematic name of this enzyme class is ATP:nicotinate-ribonucleotide adenylyltransferase.
+   4-hydroxybenzoate + formaldehyde + A + H2O
+The enzyme methylates 23S rRNA in vitro.
+      
+In enzymology, a leucine dehydrogenase is an enzyme that catalyzes the chemical reaction
+        ⇌
+Other names in common use include aspartic oxidase, and D-aspartic oxidase.
+In enzymology, a deoxyguanosine kinase is an enzyme that catalyzes the chemical reaction
+  -3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al + NADH + H+
+   prosolanapyrone III + H2O2
+   cyclohexane-1,3-dione + reduced acceptor
+      
+Other names in common use include luciferin sulfotransferase, luciferin sulfokinase, luciferin sulfokinase.
+Hence, this enzyme has one substrate, threo-3-hydroxy-L-aspartate, and two products, oxaloacetate and NH3.
+        ⇌
+This enzyme participates in pentose phosphate pathway.
+      
+      
+        ⇌
+    {\displaystyle \rightleftharpoons }
+      
+      
+The systematic name of this enzyme class is L-serine hydro-lyase [adding pyrazole 3-(pyrazol-1-yl)-L-alanine-forming].
+In enzymology, a dolichyl-phosphate D-xylosyltransferase is an enzyme that catalyzes the chemical reaction
+      
+The systematic name of this enzyme class is S-adenosyl-L-methionine:dimethyl-sulfide S-methyltransferase.
+This enzyme catalyses the following chemical reaction
+Thus, the two substrates of this enzyme are dTTP and H2O, whereas its two products are dTDP and phosphate.
+   D-ribose + a purine base
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+The systematic name of this enzyme class is ATP phosphohydrolase.
+      
+    {\displaystyle \rightleftharpoons }
+In enzymology, a trans-1,2-dihydrobenzene-1,2-diol dehydrogenase is an enzyme that catalyzes the chemical reaction
+      
+      
+In enzymology, a 3-dehydroquinate synthase is an enzyme that catalyzes the chemical reaction
+      
+      
+      
+This enzyme is also called uridine diphosphoglucose-alizarin glucosyltransferase.
+It has 2 cofactors: FAD, and Heme.
+FMN reductaseH) is an enzyme with systematic name FMNH2:NAD(P)+ oxidoreductase.
+      
+    {\displaystyle \rightleftharpoons }
+      
+      
+    {\displaystyle \rightleftharpoons }
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in cyclic amidines.
+Proteolytic processing of the D1 protein of photosystem II anables light-driven assembly of the tetranuclear manganese cluster.
+      
+   S-adenosyl-L-homocysteine + [phosphatase 2A protein]-leucine methyl ester
+  -1-hydroxymenth-8-en-2-one + NADH + H+
+The systematic name of this enzyme class is AMP,sulfite:thioredoxin-disulfide oxidoreductase.
+It has 2 cofactors: FAD and Iron.
+      
+   3-(imidazol-4-yl)-2-oxopropyl phosphate + H2O
+This enzyme belongs to the family of transferases that transfer one-carbon groups, specifically the hydroxymethyl-, formyl- and related transferases.
+        ⇌
+This mannan-binding lectin recognizes patterns of neutral carbohydrates, such as mannose and N-acetylglucosamine.
+        ⇌
+This enzyme catalyses the following chemical reaction
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-CH group of donor with oxygen as acceptor.
+    {\displaystyle \rightleftharpoons }
+Thus, the two substrates of this enzyme are acylphosphate and H2O, whereas its two products are carboxylate and phosphate.
+    {\displaystyle \rightleftharpoons }
+      
+      
+        ⇌
+      
+The systematic name of this enzyme class is chlorogenate:glucarate O-(hydroxycinnamoyl)transferase.
+      
+This enzyme catalyses the following chemical reaction
+This division is defined by the unique architectures associated with the catalytic domains and by signature sequences specific to each class.
+dimethyl sulfide + 2 ferricytochrome c2 + H2O 
+    {\displaystyle \rightleftharpoons }
+        ⇌
+The systematic name of this enzyme class is omega-amidodicarboxylate amidohydrolase.
+        ⇌
+   5alpha-androstane-3,17-dione + NAD(P)H + H+
+Other names in common use include diamino-acid transaminase, and diamino acid aminotransferase.
+      
+    {\displaystyle \rightleftharpoons }
+      
+   a tRNA with a 3' cytidine end + diphosphate
+      
+This enzyme catalyses the following chemical reaction
+        ⇌
+Type III site-specific deoxyribonuclease is an enzyme.
+   malonate semialdehyde + NADPH + H+
+The systematic name of this enzyme class is benzoyl-CoA,NADPH:oxygen oxidoreductase.
+Thiazole synthase) is an enzyme with systematic name 1-deoxy-D-xylulose 5-phosphate:thiol sulfurtransferase.
+Thus, the two substrates of this enzyme are 3'-phosphoadenylyl sulfate and UDP-N-acetyl-D-galactosamine 4-sulfate, whereas its two products are adenosine 3',5'-bisphosphate and UDP-N-acetyl-D-galactosamine 4,6-bissulfate.
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in linear amides.
+      
+Other names in common use include casbene synthetase, and geranylgeranyl-diphosphate diphosphate-lyase.
+      
+The enzyme is highly conserved and is found in all organisms’ smooth muscle tissue.
+      
+In enzymology, a dimethylallylcistransferase is an enzyme that catalyzes the chemical reaction
+      
+The enzyme builds up alpha-1,4-glucan chains covalently bound to protein.
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+This enzyme belongs to the family of transferases, specifically those transferring phosphorus-containing groups with an alcohol group as acceptor.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor.
+    {\displaystyle \rightleftharpoons }
+        ⇌
+The systematic name of this enzyme class is carbamoyl-phosphate:3-hydroxymethylceph-3-em-4-carboxylate carbamoyltransferase.
+This enzyme belongs to the family of transferases, specifically the sulfotransferases, which transfer sulfur-containing groups.
+      
+      
+The systematic name of this enzyme class isethanol:NADP+ oxidoreductase.
+    {\displaystyle \rightleftharpoons }
+      
+Thus, the two substrates of this enzyme are L-arginine and pyruvate, whereas its two products are 5-guanidino-2-oxopentanoate and L-alanine.
+In enzymology, an altronate dehydratase is an enzyme that catalyzes the chemical reaction
+        ⇌
+   biopterin + 2 NADPH + 2 H+
+This enzyme has greater catalytic efficiency in the reductive direction.
+    {\displaystyle \rightleftharpoons }
+      
+β-amylase is present in an inactive form prior to seed germination.
+The systematic name of this enzyme class is ATP:L-arginine Nω-phosphotransferase.
+      
+Exotype eliminative cleavage of alpha-L-rhamnopyranosyl-(1->4)-alpha-D-galactopyranosyluronic acid bonds of rhamnogalacturonan I oligosacharides containing alpha-L-rhamnopyranose at the reducing end and 4-deoxy-4,5-unsaturated D-galactopyranosyluronic acid at the non-reducing end.
+        ⇌
+   peptidyl(2-hydroxyglycine) + dehydroascorbate + H2O
+The systematic name of this enzyme class is D-xylulose-5-phosphate:formaldehyde glycolaldehydetransferase.
+This enzyme belongs to the family of hydrolases, specifically those acting on acid anhydrides in phosphorus-containing anhydrides.
+   ADP + protein N-phospho-L-histidine.
+The 3 substrates of this enzyme are indan-1-ol, NAD+, and NADP+, whereas its 4 products are indanone, NADH, NADPH, and H+.
+        ⇌
+In enzymology, a histidinol dehydrogenase is an enzyme that catalyzes the chemical reaction
+    {\displaystyle \rightleftharpoons }
+This enzyme catalyses the following chemical reaction
+      
+This enzyme has been reported in the bacteria Geobacillus stearothermophilus, Enterobacter aerogenes and Klebsiella pneumoniae.
+This enzyme belongs to the family of transferases, specifically those transferring one-carbon group methyltransferases.
+Chorismate synthase requires the presence of a reduced flavin mononucleotide for its activity.
+Other names in common use include D-nopaline synthase, nopaline dehydrogenase, nopaline synthase, NOS, 2-N-(D-1,3-dicarboxypropyl)-L-arginine:NADP+ oxidoreductase, and.
+    {\displaystyle \rightleftharpoons }
+      
+    {\displaystyle \rightleftharpoons }
+As a consequence, maintaining an appropriate level of protein tyrosine phosphorylation is essential for many cellular functions.
+      
+        ⇌
+The systematic name of this enzyme class is-tartrate carboxy-lyase.
+It is commonly used for its broad specificity.
+Other names in common use include thioltransacetylase B, thioethanolamine acetyltransferase, and acetyl-CoA:thioethanolamine S-acetyltransferase.
+Homogentisate 1,2-dioxygenase is an enzyme which catalyzes the conversion of homogentisate to 4-maleylacetoacetate.
+Hydrolysis of 1,6-linkages between alpha-L-fucose and N-acetyl-D-glucosamine in glycopeptides such as immunoglobulin G glycopeptide and fucosyl-asialo-agalacto-fetuin
+      
+      
+   dehypoxanthine futalosine + hypoxanthine
+Thus, the two substrates of this enzyme are N-acetyl-beta-alanine and H2O, whereas its two products are acetate and beta-alanine.
+      
+      
+The 3 substrates of this enzyme are L-glutamine, D-glutamine, and D-glutamyl-peptide, whereas its two products are NH3 and 5-glutamyl-D-glutamyl-peptide.
+        ⇌
+2 reduced rubredoxin + NAD+ + H+ 
+   adenosine 3',5'-bisphosphate + steroid O-sulfate
+Nitric oxide reductase is an enzyme with systematic name nitrous oxide:ferricytochrome-c oxidoreductase.
+      
+        ⇌
+        ⇌
+Hence, this enzyme has one substrate, 3,4,5-trihydroxybenzoate, and two products, pyrogallol and CO2.
+    {\displaystyle \rightleftharpoons }
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the aldehyde or oxo group of donor with NAD+ or NADP+ as acceptor.
+M7GpppN-mRNA hydrolase is an enzyme with systematic name m7GpppN-mRNA m7GDP phosphohydrolase.
+This enzyme participates in d-glutamine and d-glutamate metabolism.
+This enzyme participates in c21-steroid hormone metabolism.
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on paired donors, with O2 as oxidant and incorporation or reduction of oxygen.
+Other names in common use include thiosulfate:quinone oxidoreductase, thiosulphate:quinone oxidoreductase, thiosulfate oxidoreductase, tetrathionate-forming, and TQO.
+      
+In enzymology, an ethanolamine-phosphate phospho-lyase is an enzyme that catalyzes the chemical reaction
+    {\displaystyle \rightleftharpoons }
+Thus, the two substrates of this enzyme are arsenate and glutaredoxin, whereas its 3 products are arsenite, glutaredoxin disulfide, and water.
+      
+(3S,6E)-nerolidol synthase-nerolidol synthase, nerolidol synthase,-(E)-nerolidol synthase, FaNES1) is an enzyme with systematic name-farnesyl-diphosphate diphosphate-lyase-nerolidol-forming) .
+   1-hydroxymenth-8-en-2-one + NADH + H+
+This enzyme catalyses the following chemical reaction
+   AMP + O-phospho-[phospho-alpha-glucan] + phosphate
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in linear amidines.
+      
+The 3 substrates of this enzyme are ATP, ribose 5-phosphate, and NH3, whereas its 3 products are ADP, phosphate, and 5-phosphoribosylamine.
+    {\displaystyle \rightleftharpoons }
+This enzyme belongs to the family of transferases, specifically those transferring one-carbon group methyltransferases.
+    {\displaystyle \rightleftharpoons }
+The 3 substrates of this enzyme are phenylacetyl-CoA, isopenicillin N, and H2O, whereas its 3 products are CoA, penicillin G, and L-2-aminohexanedioate.
+In enzymology, a lactate aldolase is an enzyme that catalyzes the chemical reaction
+        ⇌
+The systematic name of this enzyme class is UDP-L-arabinose 4-epimerase.
+Other names in common use include thymidine diphospho-4-amino-4,6-dideoxyglucose aminotransferase, thymidine diphospho-4-amino-6-deoxyglucose aminotransferase, thymidine diphospho-4-keto-6-deoxy-D-glucose transaminase, thymidine diphospho-4-keto-6-deoxy-D-glucose-glutamic transaminase, and TDP-4-keto-6-deoxy-D-glucose transaminase.
+        ⇌
+This enzyme is isolated from papaya plant, Carica papaya.
+      
+Lupeol synthase is an enzyme with systematic name-2,3-epoxy-2,3-dihydrosqualene mutase.
+The systematic name of this enzyme class is ATP:alpha-D-glucose-1-phosphate 6-phosphotransferase.
+      
+      
+This enzyme belongs to the family of transferases, specifically those transferring phosphorus-containing groups with an alcohol group as acceptor.
+This enzyme is also called steroid alcohol sulfotransferase.
+This enzyme belongs to the family of ligases, specifically those forming generic carbon-nitrogen bonds.
+    {\displaystyle \rightleftharpoons }
+The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions.
+The systematic name of this enzyme class is styrene-oxide isomerase.
+Once primase has created the RNA primer, Pol α starts replication elongating the primer with ~20 nucleotides.
+Other names in common use include UDP-D-galactose:D-xylose galactosyltransferase, UDP-D-galactose:xylose galactosyltransferase, galactosyltransferase I, and uridine diphosphogalactose-xylose galactosyltransferase.
+The γ subunit is the site of the enzyme's catalytic activity while the other three subunits serve regulatory functions.
+taxa-4(20),11-dien-5alpha-yl acetate + NADPH + H+ + O2 
+Thus, the two substrates of this enzyme are cinnamyl alcohol and NADP+, whereas its 3 products are cinnamaldehyde, NADPH, and H+.
+      
+This enzyme catalyses the following chemical reaction
+In enzymology, an anthranilate 3-monooxygenase is an enzyme that catalyzes the chemical reaction
+This enzyme belongs to the family of hydrolases, specifically those acting on thioester bonds.
+TDP-4-acetamido-4,6-dideoxy-D-galactose takes part in the biosynthesis of enterobacterial common antigen.
+GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase, GDP-Man:Man1GlcNAc2-PP-dolichol mannosyltransferase) is an enzyme with systematic name GDP-D-mannose:D-Man-alpha-(1->3)-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol alpha-6-mannosyltransferase.
+        ⇌
+   D-Glc-alpha-(1->3)-D-Glc-alpha-(1->3)-D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+      
+In enzymology, an alpha-L-fucosidase is an enzyme that catalyzes the chemical reaction
+      
+    {\displaystyle \rightleftharpoons }
+The enzyme is activated by divalent cations and reduced glutathione.
+The systematic name of this enzyme class is propane-1,3-diol:NAD+ 1-oxidoreductase.
+      
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+Glycine—tRNA ligase also known as glycyl-tRNA synthetase is an enzyme that in humans is encoded by the GARS gene.
+Other names in common use include hexose reductase, mannitol 1-phosphate dehydrogenase, D-mannitol-1-phosphate dehydrogenase, and fructose 6-phosphate reductase.
+      
+In enzymology, a choloyl-CoA hydrolase is an enzyme that catalyzes the chemical reaction
+This enzyme participates in naphthalene and anthracene degradation.
+    {\displaystyle \rightleftharpoons }
+In enzymology, a dolichyl-diphosphate-polyphosphate phosphotransferase is an enzyme that catalyzes the chemical reaction
+It has 2 cofactors: manganese, and zinc.
+        ⇌
+      
+   CoA + N-acetyl-D-glucosamine 6-phosphate
+      
+        ⇌
+The systematic name of this enzyme class is ATP:alpha-D-glucose-1-phosphate adenylyltransferase.
+Thus, the two substrates of this enzyme are L-arginine and oxygen, whereas its 3 products are 4-guanidinobutanamide, carbon dioxide, and water.
+This enzyme participates in tyrosine metabolism and phenylalanine metabolism.
+The systematic name of this enzyme class is L-valine:tRNAVal ligase.
+      
+      
+This enzyme participates in arachidonic acid metabolism.
+      
+      
+In enzymology, a Hydroxyacylglutathione hydrolase is an enzyme that catalyzes the chemical reaction
+        ⇌
+      
+      
+      
+The enzyme is involved in degradation of pyrethroid pesticides.
+The oxygen incorporated need not be derived from O with incorporation of one atom of oxygen.
+This enzyme belongs to the family of isomerases, specifically a class of other intramolecular oxidoreductases.
+      
+      
+Thus, the two substrates of this enzyme are-2-hydroxy acid and O2, whereas its two products are 2-oxo acid and H2O2.
+The 3 substrates of this enzyme are D-glutamate, H2O, and O2, whereas its 3 products are 2-oxoglutarate, NH3, and H2O2.
+      
+This enzyme participates in tyrosine metabolism and phenylalanine metabolism.
+      
+Interconversion of the three forms of tyrosine aminotransferase, EC 2.6.1.5
+      
+The five substrates of this enzyme are 2-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan, 4-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan, NADPH, H+, and O2, whereas its three products are glyceollin, NADP+, and H2O.
+      
+The systematic name of this enzyme class is 12,13-diacylphorbate 12-acylhydrolase.
+      
+This enzyme catalyses the following chemical reaction
+The systematic name of this enzyme class is-(13S)-hydroperoxyoctadeca-9,11,14-trienoate 12,13-hydro-lyase [(9Z)-(13S)-12,13-epoxyoctadeca-9,11-dienoate-forming].
+DTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase is an enzyme with systematic name S-adenosyl-L-methionine:dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose 3-N,N-dimethyltransferase.
+In enzymology, a galactoside 2-alpha-L-fucosyltransferase is an enzyme that catalyzes the chemical reaction
+In enzymology, a hydroxycinnamate 4-beta-glucosyltransferase is an enzyme that catalyzes the chemical reaction
+Thus, the two substrates of this enzyme are ATP and [[[low-density-lipoprotein receptor]-L-serine]], whereas its two products are ADP and [[[low-density-lipoprotein receptor]-O-phospho-L-serine]].
+In enzymology, a macrocin O-methyltransferase is an enzyme that catalyzes the chemical reaction
+In enzymology, a progesterone 5alpha-reductase is an enzyme that catalyzes the chemical reaction
+In enzymology, a-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase is an enzyme that catalyzes the chemical reaction
+A cutinase is an enzyme that catalyzes the chemical reaction
+This enzyme belongs to the family of glycosyltransferases, specifically the hexosyltransferases.
+This enzyme belongs to the family of lyases, to be specific, the hydro-lyases, which cleave carbon-oxygen bonds.
+(+)-car-3-ene synthase-3-carene synthase) is an enzyme with systematic name geranyl-diphosphate diphosphate-lyase-car-3-ene-forming).
+Cholesterol-5,6-oxide hydrolase is an enzyme with systematic name 5,6alpha-epoxy-5alpha-cholestan-3beta-ol hydrolase.
+      
+        ⇌
+Thus, the two substrates of this enzyme are-pantolactone and NADP+, whereas its 3 products are 2-dehydropantolactone, NADPH, and H+.
+   diphosphate + CMP-5,7-bis(acetylamino)-3,5,7,9-tetradeoxy-L-glycero-alpha-L-manno-2-nonulopyranosonic acid
+      
+      
+Scytalidocarboxyl peptidase B, also known as Scytalidoglutamic peptidase and Scytalidopepsin B is a proteolytic enzyme.
+Hence, this enzyme has one substrate, L-carnitine, and two products, 4-(trimethylammonio)but-2-enoate and H2O.
+Other names in common use include N-(2,3-dihydroxybenzoyl)-serine synthetase, and 2,3-dihydroxybenzoylserine synthetase.
+    {\displaystyle \rightleftharpoons }
+This enzyme catalyses the following chemical reaction
+   2,4-dichlorobenzoyl-CoA + NADPH + H+
+        ⇌
+Thus, the two substrates of this enzyme are NDP and alpha-D-aldose 1-phosphate, whereas its two products are phosphate and NDP-aldose.
+Thus, the two substrates of this enzyme are 4-chlorobenzoate and H2O, whereas its two products are 4-hydroxybenzoate and chloride.
+Other names in common use include 3,4-dihydroxyphenylacetic acid 2,3-dioxygenase, HPC dioxygenase, and homoprotocatechuate 2,3-dioxygenase.
+anthranilate + NAD(P)H + 2 H+ + O2 
+The systematic name of this enzyme class is acetate:citrate-lyase(thiol-form) ligase.
+        ⇌
+This enzyme catalyses the following chemical reaction
+This enzyme is important in the metabolism of archaea, particularly their biosynthesis of coenzymes such as coenzyme M, tetrahydromethanopterin and methanofuran.
+Ent-isokaurene C2-hydroxylase is an enzyme with systematic name ent-isokaurene,NADPH:oxygen oxidoreductase.
+    {\displaystyle \rightleftharpoons }
+   acetyl phosphate + D-erythrose 4-phosphate + H2O
+Other names in common use include FAD-dependent malate-vitamin K reductase, malate-vitamin K reductase, and-malate:(quinone) oxidoreductase.
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on paired donors, with O2 as oxidant and incorporation or reduction of oxygen.
+        ⇌
+This enzyme participates in pyruvate metabolism and is constitutively expressed.
+The systematic name of this enzyme class is 5,10-methylenetetrahydromethanopterin:coenzyme-F420 oxidoreductase.
+This enzyme catalyses the following chemical reaction
+   5-hydroxy-4-imidazoleacetate + NAD+ + H2O
+Human β-glucuronidase is located in the lysosome.
+Other names in common use include serine ethanolamine phosphate synthetase, serine ethanolamine phosphodiester synthase, serine ethanolaminephosphotransferase, serine-phosphinico-ethanolamine synthase, and serinephosphoethanolamine synthase.
+This enzyme belongs to the family of ligases, to be specific those forming carbon-sulfur bonds as acid-thiol ligases.
+      
+   n AMP + n diphosphate +n-calmodulin
+    {\displaystyle \rightleftharpoons }
+an S-prenyl-L-cysteine + O2 + H2O 
+The systematic name of this enzyme class is 4-hydroxy-L-proline:NAD+ oxidoreductase.
+This enzyme participates in folate metabolism by catabolising histidine and adding to the C1-tetrahydrofolate pool.
+Analysis of substrates and products for four N-acetyl-D-glucosaminyl-transferases involved in mucin synthesis".
+      
+   S-adenosyl-L-homocysteine + corydaline + 2 NADP+
+      
+This enzyme catalyses the following chemical reaction
+The systematic name of this enzyme class is-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase.
+      
+        ⇌
+3-hydroxybenzoate—CoA ligase, 3-hydroxybenzoyl coenzyme A synthetase, 3-hydroxybenzoyl-CoA ligase) is an enzyme with systematic name 3-hydroxybenzoate:CoA ligase.
+This is the only known enzyme capable of catalysing the formation of a carbon-fluorine bond, the strongest single bond in organic chemistry.
+RNase E is a bacterial ribonuclease that participates in the processing of ribosomal RNA and the chemical degradation of bulk cellular RNA.
+This enzyme is also called 2,7,4'-trihydroxyisoflavanone hydro-lyase.
+Other names in common use include N6-hydroxylysine:acetyl CoA N6-transacetylase, N6-hydroxylysine acetylase, and acetyl-CoA:6-N-hydroxy-L-lysine 6-acetyltransferase.
+      
+      
+This enzyme belongs to the family of hydrolases, specifically those acting on carboxylic ester bonds.
+      
+In enzymology, an inulosucrase is an enzyme that catalyzes the chemical reaction
+This enzyme catalyses the following chemical reaction
+Other names in common use include N5-CAIR mutase, PurE, N5-carboxyaminoimidazole ribonucleotide mutase, and class I PurE.
+        ⇌
+        ⇌
+        ⇌
+      
+      
+This endopeptidase is present in the venom of the habu snake.
+This enzyme belongs to the family of transferases, specifically the transaminases, which transfer nitrogenous groups.
+Mutations in this gene have been associated with Krabbe disease, also known as globoid cell leukodystrophy.
+    {\displaystyle \rightleftharpoons }
+      
+      
+      
+These enzymes catalyze the oxidation of hypoxanthine to xanthine and can further catalyze the oxidation of xanthine to uric acid.
+In enzymology, a 4-chlorophenylacetate 3,4-dioxygenase is an enzyme that catalyzes the chemical reaction
+      
+      
+      
+The systematic name of this enzyme class is UDP-N-acetyl-D-glucosamine:lysosomal-enzyme N-acetylglucosaminephosphotransferase.
+      
+        ⇌
+        ⇌
+Other names in common use include N-ribosylpyrimidine nucleosidase, pyrimidine nucleosidase, N-ribosylpyrimidine ribohydrolase, pyrimidine nucleoside hydrolase, RihB, YeiK, and nucleoside ribohydrolase.
+      
+HemF is the oxygen-dependent oxidase within E. coli.
+      
+This enzyme is one of the three enzymes involved in L-dopa catabolism in the bacterium Rubrivivax benzoatilyticus.
+    {\displaystyle \rightleftharpoons }
+CDKs phosphorylate their substrates on serines and threonines, so they are serine-threonine kinases.
+    {\displaystyle \rightleftharpoons }
+The systematic name of this enzyme class is mandelamide hydrolase.
+The 3 substrates of this enzyme are D-glutamate, H2O, and O2, whereas its 3 products are 2-oxoglutarate, NH3, and H2O2.
+   AMP + diphosphate + L-glutaminyl-tRNAGln
+This enzyme belongs to the family of lyases, specifically those carbon-oxygen lyases acting on polysaccharides.
+Other names in common use include gentisate oxygenase, 2,5-dihydroxybenzoate dioxygenase, gentisate dioxygenase, and gentisic acid oxidase.
+This metallopeptidase is isolate from Bacillus sphaericus.
+This enzyme catalyses the following chemical reaction
+In enzymology, a N-acylneuraminate-9-phosphatase is an enzyme that catalyzes the chemical reaction
+      
+      
+This enzyme participates in histidine metabolism and aminoacyl-trna biosynthesis.
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+This enzyme participates in purine metabolism and pyrimidine metabolism.
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in linear amides.
+      
+      
+Thus, the two substrates of this enzyme are UDP-galactose and O-beta-D-xylosylprotein, whereas its two products are UDP and 4-beta-D-galactosyl-O-beta-D-xylosylprotein.
+Sphingomyelinases D are produced by some spiders in their venoms, by arthropods such as ticks, or pathogenic bacteria and fungi.
+        ⇌
+In enzymology, a methionine S-methyltransferase is an enzyme that catalyzes the chemical reaction
+Adenosylcobinamide-GDP ribazoletransferase synthase) is an enzyme with systematic name adenosylcobinamide-GDP:alpha-ribazole ribazoletransferase.
+        ⇌
+        ⇌
+Nitrite dismutase is an enzyme with systematic name nitrite:nitrite oxidoreductase.
+Other names in common use include cystine reductase, NADH-dependent cystine reductase, cystine reductase, and NADH2:L-cystine oxidoreductase.
+   alpha-D-glucose + alpha-D-glucose 1-phosphate
+      
+Thus, the two substrates of this enzyme are 3β-hydroxy-5α-pregnane-20-one and NADP+, whereas its 3 products are 5α-pregnan-3,20-dione, NADPH, and H+.
+The 5 substrates of this enzyme are 4-hydroxyphenylacetate, NADH, NADPH, H+, and O2, whereas its 4 products are homogentisate, NAD+, NADP+, and H2O.
+Thus, the two substrates of this enzyme are D-altronate and NAD+, whereas its 3 products are D-tagaturonate, NADH, and H+.
+   acrolein + NADPH + H+
+      
+      
+      
+      
+In enzymology, a-2-methylmalate dehydratase is an enzyme that catalyzes the chemical reaction
+      
+    {\displaystyle \rightleftharpoons }
+Thus, the two substrates of this enzyme are-reticuline and O2, whereas its two products are-scoulerine and H2O2.
+Thus, the two substrates of this enzyme are UDP-glucose and flavanone, whereas its two products are UDP and flavanone 7-O-beta-D-glucoside.
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in linear amides.
+This enzyme belongs to the family of transferases, specifically those transferring phosphorus-containing groups with a phosphate group as acceptor.
+Cobalt chelatase is an enzyme that catalyzes the chemical reaction
+Other names in common use include N-methylglutamate dehydrogenase, and N-methyl-L-glutamate:(acceptor) oxidoreductase.
+        ⇌
+The systematic name of this enzyme class is D-glucono-1,5-lactone lactonohydrolase.
+      
+Other names in common use include glutamine scyllo-inosose aminotransferase, L-glutamine-keto-scyllo-inositol aminotransferase, glutamine-scyllo-inosose transaminase, and L-glutamine-scyllo-inosose transaminase.
+The systematic name of this enzyme class is 5alpha-ergosta-7,22-diene-3beta,5-diol 5,6-hydro-lyase.
+This enzyme belongs to the family of isomerases, specifically those racemases and epimerases acting on carbohydrates and derivatives.
+      
+        ⇌
+        ⇌
+In enzymology, a D-aspartate ligase is an enzyme that catalyzes the chemical reaction
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+      
+      
+      
+      
+D-arginase is an enzyme with systematic name D-arginine amidinohydrolase.
+    {\displaystyle \rightleftharpoons }
+The systematic name of this enzyme class is propanoyl-CoA:glyoxylate C-propanoyltransferase.
+    {\displaystyle \rightleftharpoons }
+Thus, the two substrates of this enzyme are acyl-CoA and sphingosine, whereas its two products are CoA and N-acylsphingosine.
+In enzymology, a dextransucrase is an enzyme that catalyzes the chemical reaction
+Thus, the two substrates of this enzyme are 2'-hydroxy-2,3-dihydrodaidzein and NADP+, whereas its 3 products are 2'-hydroxydaidzein, NADPH, and H+.
+This enzyme catalyses the following chemical reaction
+   ent-7alpha-hydroxykaur-16-en-19-oate + NADP+ + H2O
+This enzyme belongs to the family of lyases, specifically those carbon-oxygen lyases acting on phosphates.
+      
+This enzyme catalyses the following chemical reaction
+      
+      
+The 4 substrates of this enzyme are 3-oxopropanoate, NAD+, NADP+, and H2O, whereas its 4 products are malonate, NADH, NADPH, and H+.
+This enzyme belongs to the family of transferases, specifically those acyltransferases transferring groups other than aminoacyl groups.
+        ⇌
+      
+      
+This enzyme catalyses the first step in the biosynthesis of histidine in bacteria, fungi and plants.
+Thus, the two substrates of this enzyme are 4-phospho-D-erythronate and NAD+, whereas its 3 products are-3-hydroxy-2-oxo-4-phosphonooxybutanoate, NADH, and H+.
+    {\displaystyle \rightleftharpoons }
+      
+Other names in common use include retinene isomerase, and retinoid isomerase.
+        ⇌
+      
+This enzyme catalyses the following chemical reaction
+      
+The systematic name of this enzyme class is palmitoyl-CoA:ecdysone palmitoyltransferase.
+      
+      
+      
+        ⇌
+    {\displaystyle \rightleftharpoons }
+        ⇌
+      
+Thus, the two substrates of this enzyme are UDP-D-xylose andn, whereas its two products are UDP andn+1.
+This enzyme participates in indole and ipecac alkaloid biosynthesis.
+   S-adenosyl-L-homocysteine + L-methionine + 5'-deoxyadenosine + 8-methyladenine2503 in 23S rRNA
+Other names in common use include cysteine aminotransferase, L-cysteine aminotransferase, and CGT.
+Hydrolysis of the alpha-D-mannosyl-(1->6)-beta-D-mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl sequence of glycoprotein to alpha-D-mannosyl-(1->6)-D-mannose and N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl sequences
+Thus, the two substrates of this enzyme are ATP and streptomycin, whereas its two products are ADP and streptomycin 6-phosphate.
+This enzyme is a key enzyme in the biosynthesis of mycothiol.
+Galactosylceramidase is a lysosomal protein which hydrolyzes the galactose ester bonds of galactocerebroside, galactosylsphingosine, lactosylceramide, and monogalactosyldiglyceride.
+This is an Escherichia coli cytoplasmic endopeptidase.
+        ⇌
+In enzymology, a 3-chloro-D-alanine dehydrochlorinase is an enzyme that catalyzes the chemical reaction
+   1,3,6,8-tetrahydroxynaphthalene + NADPH + H+
+      
+Other names in common use include pyrophosphomevalonate decarboxylase, mevalonate-5-pyrophosphate decarboxylase, pyrophosphomevalonic acid decarboxylase, 5-pyrophosphomevalonate decarboxylase, mevalonate 5-diphosphate decarboxylase, and ATP:(R)-5-diphosphomevalonate carboxy-lyase.
+; Laing, W.. "Defining the potassium binding region in an apple terpene synthase".
+    {\displaystyle \rightleftharpoons }
+      
+        ⇌
+In enzymology, a malate dehydrogenase, formerly malate dehydrogenase, is an enzyme that catalyzes the chemical reaction
+      
+        ⇌
+    {\displaystyle \rightleftharpoons }
+      
+      
+      
+        ⇌
+The systematic name of this enzyme class is UDP-glucose:trans-4-hydroxycinnamate 4-O-beta-D-glucosyltransferase.
+    {\displaystyle \rightleftharpoons }
+The systematic name of this enzyme class is L-alanine:2-oxo-acid aminotransferase.
+        ⇌
+Geranyl diphosphate 2-C-methyltransferase is an enzyme with systematic name S-adenosyl-L-methionine:geranyl-diphosphate 2-C-methyltransferase.
+Hydrolysis of terminal non-reducing beta-D-fucose residues in beta-D-fucosides
+(Protein ADP-ribosylarginine) hydrolase-L-arginine ADP-ribosylhydrolase, protein-omega-N-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase) is an enzyme with systematic name protein-Nomega-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase.
+Hence, this enzyme has one substrate, 2-dehydro-3-deoxy-L-pentonate, and two products, pyruvate and glycolaldehyde.
+    {\displaystyle \rightleftharpoons }
+The protein is maximally expressed late in pollen development.
+The systematic name of this enzyme class is ATP:1-phosphatidyl-1D-myo-inositol-5-phosphate 4-phosphotransferase.
+(1b) 2 N-omega-hydroxy-L-arginine + NAD(P)H + H+ + 2 O2 
+    {\displaystyle \rightleftharpoons }
+        ⇌
+Thus, the two substrates of this enzyme are thiosulfate and 6-decylubiquinone, whereas its two products are tetrathionate and 6-decylubiquinol.
+(1b) N-hydroxy-L-tryptophan + O2 + NADPH + H+ 
+This enzyme catalyses the following chemical reaction
+This enzyme participates in the biosynthetic pathway for UDP-alpha-D-ManNAc3NAcA.
+      
+Thus, the two substrates of this enzyme are ATP and inosine, whereas its two products are ADP and IMP.
+   UDP + a flavonol 3-O-[beta-L-rhamnosyl-(1->6)-beta-D-glucoside]
+      
+The systematic name of this enzyme class is-pantothenate amidohydrolase.
+    {\displaystyle \rightleftharpoons }
+In enzymology, a 6-hydroxymellein O-methyltransferase is an enzyme that catalyzes the chemical reaction
+      
+The systematic name of this enzyme class is UDP-glucose:2-hydroxy-2-methylpropanenitrile beta-D-glucosyltransferase.
+      
+      
+In enzymology, a malonate-semialdehyde dehydrogenase is an enzyme that catalyzes the chemical reaction
+This enzyme catalyses a step in the 3-hydroxypropionate/4-hydroxybutyrate cycle, an autotrophic CO2 fixation pathway found in some Thermoacidophilic archaea.
+This enzyme belongs to the family of lyases, specifically the carboxy-lyases, which cleave carbon-carbon bonds.
+      
+This enzyme belongs to the family of oxidoreductases, to be specific, those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor.
+The systematic name of this enzyme class is 4-hydroxybenzoate,NAD(P)H:oxygen oxidoreductase.
+N6-dimethylallyladenine + electron acceptor + H2O 
+In enzymology, a stizolobinate synthase is an enzyme that catalyzes the chemical reaction
+Other names in common use include uridine diphosphoglucose-monoterpenol glucosyltransferase, and UDPglucose:monoterpenol glucosyltransferase.
+      
+This enzyme catalyses the following chemical reaction
+This enzyme participates in vitamin B6 metabolism.
+(-)-(S)-limonene + NADPH + H+ + O2 
+The systematic name of this enzyme class is UDP-glucose:vomilenine 21-O-beta-D-glucosyltransferase.
+Thus, the two substrates of this enzyme are L-kynurenine and glyoxylate, whereas its two products are 4-(2-aminophenyl)-2,4-dioxobutanoate and glycine.
+This enzyme belongs to the family of glycosyltransferases, specifically the hexosyltransferases.
+        ⇌
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-NH group of donors with other acceptors.
+    {\displaystyle \rightleftharpoons }
+        ⇌
+      
+   germacrene C + diphosphate
+The systematic name of this enzyme class is chlorophyllide-a:phytyl-diphosphate phytyltransferase.
+DNA oxidative demethylase) is an enzyme with systematic name methyl DNA-base, 2-oxoglutarate:oxygen oxidoreductase.
+        ⇌
+   CoA + a carboxylate
+   ADP + phosphate + cob(II)yrinic acid a,c-diamide + H+
+(1) S-adenosyl-L-methionine + cytidine4 in tRNAPro 
+This enzyme catalises the following chemical reaction
+Thus, the two substrates of this enzyme are D-fructose and NADP+, whereas its 3 products are 5-dehydro-D-fructose, NADPH, and H+.
+    {\displaystyle \rightleftharpoons }
+The 4 substrates of this enzyme are benzoyl-CoA, NADPH, H+, and O2, whereas its 3 products are 3-hydroxybenzoyl-CoA, NADP+, and H2O.
+        ⇌
+The N-terminal half of the protein catalyzes the conversion of farnesyl diphosphate to germacradienol and germacrene D, followed by the C-terminal-mediated conversion of germacradienol to geosmin.
+Other names in common use include 2-oxoisovalerate dehydrogenase, and alpha-ketoisovalerate dehydrogenase.
+The systematic name of this enzyme class is CMP-N-acetylneuraminate:glycano-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein alpha-2,6-N-acetylneuraminyltransferase.
+    {\displaystyle \rightleftharpoons }
+        ⇌
+      
+This enzyme catalyses the following chemical reaction
+The systematic name of this enzyme class is long-chain-fatty-acid:protein ligase.
+      
+This enzyme participates in terpene indole and ipecac alkaloid biosynthesis.
+This enzyme belongs to the family of ligases, to be specific those forming carbon-oxygen bonds in aminoacyl-tRNA and related compounds.
+Xylose-isomerases are also commonly called fructose-isomerases due to their ability to interconvert glucose and fructose.
+This enzyme belongs to the family of transferases, specifically those transferring one-carbon group methyltransferases.
+(1) ATP + cholate + CoA 
+This enzyme belongs to the family of lyases, specifically the carboxy-lyases, which cleave carbon-carbon bonds.
+        ⇌
+This eukaryotic enzyme performs the final step in the synthesis of the lipid-linked oligosaccharide.
+Other names in common use include alpha-1,6-mannosyltransferase, GDP-mannose:oligosaccharide 1,6-alpha-D-mannosyltransferase, GDP-mannose:glycolipid 1,6-alpha-D-mannosyltransferase, and glycolipid 6-alpha-mannosyltransferase.
+Thus, the two substrates of this enzyme are ATP and farnesyl diphosphate, whereas its two products are ADP and farnesyl triphosphate.
+Pentalenolactone D synthase is a FAD-dependent oxygenase.
+This enzyme catalyses the following chemical reaction
+This enzyme belongs to the family of transferases, specifically those acyltransferases transferring groups other than aminoacyl groups.
+This enzyme catalyses the following chemical reaction
+This enzyme belongs to the family of hydrolases, specifically those acting on sulfuric ester bonds.
+Thus, the two substrates of this enzyme are chlordecone alcohol and NADP+, whereas its 3 products are chlordecone, NADPH, and H+.
+The 3 substrates of this enzyme are ATP, 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate, and L-aspartate, whereas its 3 products are ADP, phosphate, and-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate.
+This enzyme belongs to the family of glycosyltransferases, specifically the hexosyltransferases.
+In enzymology, an o-pyrocatechuate decarboxylase is an enzyme that catalyzes the chemical reaction
+The amino acid tyrosine contains a single phenolic ring that may be oxidised by the action of PPOs to form o-quinone.
+  -camphor + NADH + H+
+      
+The systematic name of this enzyme class is-3-methyl-2-oxopentanoate carboxy-lyase.
+      
+        ⇌
+This enzyme acts on starch and related polysaccharides and oligosaccharides.
+      
+The systematic name of this enzyme class is UDP-glucose:poly(glycerol-phosphate) alpha-D-glucosyltransferase.
+      
+This enzyme is also called enoate reductase.
+Hence, this enzyme has one substrate, acetone cyanohydrin, and two products, cyanide and acetone.
+This enzyme catalyses the following chemical reaction
+Therefore, it has been proposed that barbiturase, along with cyanuric acid, should be grouped into a new family.
+as well as the corresponding reaction using nicotinamide adenine dinucleotide phosphate
+   pantotheine 4'-phosphate + CO2
+      
+      
+Gyrase has been found in the apicoplast of the malarial parasite Plasmodium falciparum, a unicellular eukaryote.
+This enzyme belongs to the family of glycosyltransferases, specifically the hexosyltransferases.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on paired donors, with O2 as oxidant and incorporation or reduction of oxygen.
+    {\displaystyle \rightleftharpoons }
+(1a) L-isoleucine + O2 + NADPH + H+ 
+This enzyme participates in nicotinate and nicotinamide metabolism.
+This enzyme belongs to the family of glycosyltransferases, specifically the hexosyltransferases.
+In enzymology, a maltose synthase is an enzyme that catalyzes the chemical reaction
+      
+In enzymology, a phosphonoacetate hydrolase is an enzyme that catalyzes the chemical reaction
+    {\displaystyle \rightleftharpoons }
+      
+Release of an N-terminal pyroglutamyl group from a polypeptide, the second amino acid generally not being Pro
+This enzyme catalyses the following chemical reaction
+Four cysteine residues and one residue, which is either serine or threonine, are identified as likely active-site residues.
+At least two more forms, GAD25 and GAD44 are described in the developing brain.
+methylamine + [Co(I) methylamine-specific corrinoid protein] 
+Myrosinase is a family of enzymes involved in plant defense against herbivores.
+    {\displaystyle \rightleftharpoons }
+Specificity for B chain of insulin is more restricted than that of pepsin A
+    {\displaystyle \rightleftharpoons }
+Other names in common use include neelaredoxin, and desulfoferrodoxin.
+      
+      
+        ⇌
+Other names in common use include glucose 3-O-nontransferable, heparin sulfate D-glucose 3-O-nontransferable, and formalism/isomerism 2.
+      
+This enzyme belongs to the family of lyases, specifically the hydro-lyases, which cleave carbon-oxygen bonds.
+      
+Other names in common use include retinol saturase, RetSat,-all-trans-retinol saturase, and all-trans-retinol:all-trans-13,14-dihydroretinol saturase.
+Two major types of histone methyltranferases exist, lysine-specific3-9, Enhancer of Zeste, Trithorax) domain containing or non-SET domain containing) and arginine-specific.
+      
+Thus, the two substrates of this enzyme are ATP and-glycerate, whereas its two products are ADP and either 3-phospho-(R)-glycerate or 2-phospho-(R)-glycerate .
+      
+        ⇌
+      
+        ⇌
+This enzyme participates in d-glutamine and d-glutamate metabolism.
+      
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-NH group of donor with NAD+ or NADP+ as acceptor.
+    {\displaystyle \rightleftharpoons }
+In enzymology, a NADPH dehydrogenase is an enzyme that catalyzes the chemical reaction
+The systematic name of this enzyme class is ATP:O-alkylglycerone phosphotransferase.
+DNA ligase is a specific type of enzyme, a ligase, that facilitates the joining of DNA strands together by catalyzing the formation of a phosphodiester bond.
+    {\displaystyle \rightleftharpoons }
+Without cyclin, CDK has little kinase activity; only the cyclin-CDK complex is an active kinase.
+The W centre is bound to two molybdopterin cofactors.
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+Cleavage of Phe1-Val, His5-Leu, His10-Leu, Ala14-Leu, Leu15-Tyr, and Tyr16-Leu of insulin B chain
+Thus, the two substrates of this enzyme are S-adenosyl methionine and 5,3',4'-trihydroxy-3,7-dimethoxyflavone, whereas its two products are S-adenosylhomocysteine and 5,3'-dihydroxy-3,7,4'-trimethoxyflavone.
+This enzyme participates in glycosaminoglycan degradation and glycan structures - degradation.
+    {\displaystyle \rightleftharpoons }
+      
+        ⇌
+The bacteria secrete Dispersin B to release adherent cells from a mature biofilm colony by disrupting biofilm formation.
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on paired donors, with O2 as oxidant and incorporation or reduction of oxygen.
+Other names in common use include 3'-deoxynucleotidase, and 3'-deoxyribonucleotidase.
+      
+This enzyme participates in c5-branched dibasic acid metabolism.
+Amorpha-4,11-diene 12-monooxygenase is an enzyme with systematic name amorpha-4,11-diene,NADPH:oxygen oxidoreductase.
+        ⇌
+    {\displaystyle \rightleftharpoons }
+The systematic name of this enzyme class is-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase.
+The systematic name of this enzyme class is Mn(II):hydrogen-peroxide oxidoreductase.
+    {\displaystyle \rightleftharpoons }
+In enzymology, a monogalactosyldiacylglycerol synthase is an enzyme that catalyzes the chemical reaction
+        ⇌
+The systematic name of this enzyme class is D-hexose:oxygen 1-oxidoreductase.
+This enzyme is also called erythritol kinase.
+This enzyme participates in cyanoamino acid metabolism.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor.
+      
+The systematic name of this enzyme class is UDP-N-acetyl-D-glucosamine 2-epimerase.
+      
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+Hydrogen peroxide in turn is reduced to water by rubrerythrin.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on a peroxide as acceptor.
+        ⇌
+Phospholipase D is an enzyme of the phospholipase superfamily.
+      
+      
+This enzyme participates in valine, leucine and isoleucine biosynthesis and aminoacyl-trna biosynthesis.
+In humans, acrosin is encoded by the ACR gene.
+      
+This enzyme participates in nicotinate and nicotinamide metabolism.
+        ⇌
+Matrix metalloproteinase-12 also known as macrophage metalloelastase or macrophage elastase is an enzyme that in humans is encoded by the MMP12 gene.
+    {\displaystyle \rightleftharpoons }
+      
+The systematic name of this enzyme class is alcohol:oxygen oxidoreductase.
+Thus, the two substrates of this enzyme are ATP and H2O, whereas its two products are ITP and NH3.
+This enzyme catalyses the following chemical reaction
+      
+      
+  -4-hydroxymandelate + dihydrobiopterin + H2O
+      
+During the ripening of fruit, β-amylase breaks starch into maltose, resulting in the sweet flavor of ripe fruit.
+      
+      
+Recently, human UTP—glucose-1-phosphate uridylyltransferase has been studied and crystallized, revealing a different type of regulation than other organisms previously studied.
+The systematic name of this enzyme class is UDP-glucose:arylamine N-D-glucosyltransferase.
+The systematic name of this enzyme class is 3-(beta-D-galactosyl)-1,2-diacyl-sn-glycerol:mono-3-(beta-D-galactos yl)-1,2-diacyl-sn-glycerol beta-D-galactosyltransferase.
+Other names in common use include tetrahydrodipicolinate acetylase, tetrahydrodipicolinate:acetyl-CoA acetyltransferase, acetyl-CoA:L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase, acetyl-CoA:(S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate, and 2-N-acetyltransferase.
+        ⇌
+Cellulose 1,4-beta-cellobiosidase is an enzyme with systematic name 4-beta-D-glucan cellobiohydrolase.
+Other names in common use include aspartase, fumaric aminase, L-aspartase, and L-aspartate ammonia-lyase.
+(1) cholest-5-ene-3beta,25-diol + NADPH + H+ + O2 
+Thus, the two substrates of this enzyme are benzoyl-CoA and glycine, whereas its two products are CoA and N-benzoylglycine.
+      
+   2-oxoglutarate + reduced acceptor
+    {\displaystyle \rightleftharpoons }
+This enzyme participates in glutamate metabolism and nicotinate and nicotinamide metabolism.
+The oxygen incorporated need not be derived from O miscellaneous.
+The systematic name of this enzyme class is acetoacetate:CoA ligase.
+        ⇌
+Bornyl diphosphate synthase is involved in the biosynthesis of the cyclic monoterpenoid bornyl diphosphate.
+  -4,6-dihydroxy-2,5-dioxohexanoate + NADH + H+
+This enzyme catalyses the following chemical reaction
+   nitrate + NADH + H+
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor.
+It is inhibited by Mycophenolic acid, ribavirin, and 6TGMP.
+In enzymology, an aconitate decarboxylase is an enzyme that catalyzes the chemical reaction
+      
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor.
+Hence, this enzyme has one substrate, L-threonine, and one product, D-threonine.
+Other names in common use include protocatechuate oxygenase, protocatechuic acid oxidase, protocatechuic 3,4-dioxygenase, and protocatechuic 3,4-oxygenase.
+   zeatin + NADPH + H+
+   licodione + NADP+ + H2O
+        ⇌
+   D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+      
+The systematic name of this enzyme class is 1,2,3,5-tetrahydroxybenzene:1,2,3-trihydroxybenzene hydroxytransferase.
+      
+In enzymology, an acetylene hydratase is a rare example of an enzyme containing tungsten.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-CH group of donor with NAD+ or NADP+ as acceptor.
+Other names in common use include 3alpha,17beta-hydroxy steroid dehydrogenase, 3alpha(17beta)-HSD, and 3alpha(17beta)-hydroxysteroid dehydrogenase.
+Formate dehydrogenase-N is an enzyme with systematic name formate:quinone oxidoreductase.
+      
+   dTDP + O-(1->4)-alpha-L-dihydrostreptosyl-streptidine 6-phosphate
+This enzyme belongs to the family of transferases, specifically those acyltransferases transferring groups other than aminoacyl groups.
+In enzymology, a nicotianamine aminotransferase is an enzyme that catalyzes the chemical reaction
+        ⇌
+This enzyme catalyses the following chemical reaction
+In enzymology, a N-methylphosphoethanolamine cytidylyltransferase is an enzyme that catalyzes the chemical reaction
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in cyclic amidines.
+        ⇌
+Betaine reductase is an enzyme that catalyzes the chemical reaction
+This enzyme participates in fatty acid biosynthesis.
+In enzymology, a galacturan 1,4-alpha-galacturonidase is an enzyme that catalyzes the chemical reaction
+This enzyme is also called imidazol-5-yl lactate dehydrogenase.
+      
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+Growth of Staphylokinase is seen in late exponential phase.
+      
+In enzymology, a blasticidin-S deaminase is an enzyme that catalyzes the chemical reaction
+      
+The oxygen incorporated need not be derive from O miscellaneous.
+This enzyme is also called alpha-glucose-1-phosphate phosphodiesterase.
+        ⇌
+Proprotein convertases remove those chains and activate the protein.
+The enzyme requires the 5-deazaflavin structure, as well as an 8-hydroxy group in the substrate.
+Flavonoid 3',5'-hydroxylase is an enzyme with systematic name flavanone,NADPH:oxygen oxidoreductase.
+      
+3CD undergoes proteolysis, which leads to localization in the nucleus.
+      
+This enzyme belongs to the family of oxidoreductases, specifically those acting on CH or CH2 groups with NAD+ or NADP+ as acceptor.
+The systematic name of this enzyme class is UDP-glucose:flavonol-3-O-glucoside 2-O-beta-D-glucosyltransferase.
+This enzyme catalyses the following chemical reaction
+Other names in common use include inositol-1,3-bisphosphate 3-phosphatase, inositol 1,3-bisphosphate phosphatase, inositol-polyphosphate 3-phosphatase, D-myo-inositol-1,3-bisphosphate 3-phosphohydrolase, and phosphatidyl-3-phosphate 3-phosphohydrolase.
+The systematic name of this enzyme class is RTP:adenosylcobinamide phosphotransferase.
+      
+      
+The systematic name of this enzyme class is 1-guanidino-1-deoxy-scyllo-inositol-4-phosphate 4-phosphohydrolase.
+      
+Thus, the two substrates of this enzyme are pyruvate and D-glyceraldehyde 3-phosphate, whereas its two products are 1-deoxy-D-xylulose 5-phosphate and CO2.
+    {\displaystyle \rightleftharpoons }
+        ⇌
+        ⇌
+      
+This enzyme participates in urea cycle and metabolism of amino groups.
+The systematic name of this enzyme class is UDP-galactose:(indol-3-yl)acetyl-myo-inositol 5-O-D-galactosyltransferase.
+Thus, the two substrates of this enzyme are pyrimidine nucleoside and phosphate, whereas its two products are pyrimidine base and alpha-D-ribose 1-phosphate.
+This enzyme catalyses the following chemical reaction
+This enzyme belongs to the family of hydrolases, specifically those acting on ester bonds phosphoric-triester hydrolases.
+        ⇌
+In enzymology, a flavonoid 3'-monooxygenase is an enzyme that catalyzes the chemical reaction
+        ⇌
+    {\displaystyle \rightleftharpoons }
+This enzyme catalyses the following chemical reaction
+nicotinate + 5-phospho-alpha-D-ribose 1-diphosphate + ATP + H2O 
+      
+      
+This enzyme catalyses the following chemical reaction
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor.
+        ⇌
+This enzyme belongs to the family of transferases, specifically those acyltransferases transferring groups other than aminoacyl groups.
+   methyl-CoM + [Co(I) methylated-thiol-specific corrinoid protein]
+        ⇌
+        ⇌
+      
+      
+      
+      
+    {\displaystyle \rightleftharpoons }
+In 2010 finally, the gene coding for alkylglycerol monooxygenase was discovered as transmembrane protein 195 on chromosome 7.
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+    {\displaystyle \rightleftharpoons }
+The enzyme from Triticum aestivum catalyses the sequential O-methylation of tricetin via 3'-O-methyltricetin, 3',5'-O-methyltricetin to 3',4',5'-O-trimethyltricetin.
+      
+    {\displaystyle \rightleftharpoons }
+The abstraction of two carbons from D-xylulose-5-P yields the 3-carbon aldose glyceraldehyde-3-P.
+Other names in common use include alpha-hydroxyglycine amidating dealkylase, peptidyl-alpha-hydroxyglycine alpha-amidating lyase, HGAD, PGL, PAL, and peptidylamidoglycolate peptidylamide-lyase.
+        ⇌
+   orotate + NADPH + H+
+        ⇌
+        ⇌
+The enzyme has been shown to be inhibited by 1-(5-phospho-D-ribosyl)-ATP, histidine, ppGpp and ADP and AMP.
+In enzymology, a procollagen galactosyltransferase is an enzyme that catalyzes the chemical reaction
+      
+Other names in common use include uridine diphosphogalactose-sucrose 6F-alpha-galactosyltransferase, UDPgalactose:sucrose 6fru-alpha-galactosyltransferase, and sucrose 6F-alpha-galactotransferase.
+Action on the B chain of insulin is generally similar to that of pepsin A, but it also cleaves Leu6-Cys(SO3H), Glu21-Arg and Asn3-Gln, although not Gln4-His
+      
+        ⇌
+Several isozymes have been discovered, with varying substrate stereospecificity: three in Lycopersicon escultentum, 13 in Oryza sativa, and five in Arabidopsis thaliana.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on superoxide as acceptor.
