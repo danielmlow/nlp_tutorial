@@ -23,13 +23,13 @@ to launch the Jupyter Notebook App and open this tutorial in an interactive mode
 http://nlp.stanford.edu/data/glove.6B.zip
 
 **Dependencies**
-python3
-jupyter (To install, follow steps here: http://jupyter.org/install )
-pandas
-numpy
-keras
-sklearn
-matplotlib
-ipywidgets
-codecs
+* python3
+* jupyter (To install, follow steps here: http://jupyter.org/install )
+* pandas
+* numpy
+* keras
+* sklearn
+* matplotlib
+* ipywidgets
+* codecs
 
