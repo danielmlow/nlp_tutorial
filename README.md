@@ -1,4 +1,4 @@
-# Friendly introduction to NLP
+# Friendly introduction to Natural Language Processing (NLP)
 Friendly intro to vector semantics, neural networks, and principal component analysis.
 
 ## How to run code in this tutorial
