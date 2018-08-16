@@ -1,45 +1,40 @@
 # Friendly introduction to NLP
-Friendly intro to vector semantics, neural networks, and PCA
+Friendly intro to vector semantics, neural networks, and principal component analysis.
 
-## How to run code in this tutorial (TODO)
+## How to run code in this tutorial
+### MAC OS X / Linux
+1. Clone repository:
+``` 
+git clone https://github.com/danielmlow/nlp_tutorial.git
+```
 
-After cloning the repository, also download this file into your local directory:
-https://www.dropbox.com/s/9gjv8umk55xsnrr/glove.6B.50d.txt?dl=0
+2. go to directory with repository
+```
+cd path/nlp_tutorial
+
+
+3. Run jupyter notebook
+```
+jupyter notebook tutorial.ipynb
+```
+to launch the Jupyter Notebook App and open this tutorial in an interactive mode. The notebook interface will appear in a new browser window or tab.
+
+4. Download this file, unzip, and move glove.6B.50d.txt to your working directory (you can erase other files). 
+http://nlp.stanford.edu/data/glove.6B.zip
 
 **Dependencies**
+python3
+jupyter (To install, follow steps here: http://jupyter.org/install )
 pandas
-
 numpy
-
 keras
-
-keras
-
 csv
-
 keras
-
 sklearn
-
 matplotlib
-
 math
-
 ipywidgets
-
 string
-
 re
-
 codecs
 
-### MAC OS
-1. Create a folder "math_nlp", enter the by typing cd /math_nlp.
-Save this tutorial in that folder. 
-1. Follow steps here: http://jupyter.org/install
-Open terminal
-2. Enter the folder by typing cd /math_nlp.
-3. Type ```jupyter notebook math_nlp.ipynb``` to launch the Jupyter Notebook App and open this tutorial in an interactive mode. The notebook interface will appear in a new browser window or tab.
-
-
-### Linux OS
