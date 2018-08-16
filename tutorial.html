@@ -11820,7 +11820,7 @@ div#notebook {
 Tesguino makes you drunk.
 We make tesguino out of corn.</code></pre>
 <p>This example shows that the meaning of a word is related to the distribution of words that tend to accompany it, which is known as the <strong>distributional hypothesis</strong>. To do this systematically, you can count how many times every word appears near a word of interest. We do this through a <strong>word-word matrix</strong>, where each cell represents the number of times (in some corpus) the column word occurs in a ±N word window around the row word. For example, here are 7-word windows surrounding four sample words from the Brown corpus (just one example of each word):</p>
-<p><img src="attachment:image.png" alt="image.png"></p>
+<p><img src="figures/vector_semantics_window.png" alt="title"></p>
 <p>So let's build the word-word matrix. We first build an empty matrix and then fill it with the co-ocurrences of words:</p>
 
 </div>
@@ -12298,10 +12298,10 @@ KnwRkYhQ4YuIRIQKX0QkIlT4IiIR8f8B3XJmDu4/NE8AAAAASUVORK5CYII=
 
  
  
-<div id="ac2dd8e5-1018-4982-8b44-a2266c81f571"></div>
+<div id="0c462975-a052-4fbc-aa6e-2f1ebf4f779c"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#ac2dd8e5-1018-4982-8b44-a2266c81f571');
+var element = $('#0c462975-a052-4fbc-aa6e-2f1ebf4f779c');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
 {"model_id": "0c7bb90e6f5d4f2da363923a651d39c8"}
@@ -12800,10 +12800,10 @@ Cosine similarity:  0.91
 
  
  
-<div id="7d390bc8-8e19-4ff5-9235-fabe43eb2ea9"></div>
+<div id="9c96a89e-7712-4c7b-9664-24cc3648fb7e"></div>
 <div class="output_subarea output_widget_view ">
 <script type="text/javascript">
-var element = $('#7d390bc8-8e19-4ff5-9235-fabe43eb2ea9');
+var element = $('#9c96a89e-7712-4c7b-9664-24cc3648fb7e');
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
 {"model_id": "7d3384abefb148a1bca2044eabe553aa"}
@@ -13591,9 +13591,9 @@ None
 <li>The <strong>bias</strong> is learned to determine how important that neuron is for the network. If the bias is low (negative) than the input and weight must be high for the neuron to be active (e.g., if bias= -10, x=2 and w=2.5, then 2<em>2.5 - 10 = -5, making that neuron not pass on information); if the bias is high (positive) than even small inputs will make it activate (e.g., if bias= 5, x=0.1 and w=1, then 0.1</em>1 + 5 = 5.1).</li>
 <li>The <strong>activation function</strong> allows the model to learn non-linearity. Intuitively, this means many problems cannot be solved with lines (i.e., linear models). In this case, we need a model that seperates the possible inputs, which are all possible 50D vectors for each class. Therefore, we take the result of (x1 w1 + x2 w2 + … + xn wn + bias ) and pass it through an non-linear activation function, in this case the the rectified linear unit or <strong>ReLU</strong>, which flattens any negative input $z$ into $0$ and any positive input remains the same (e.g., ReLu(-0.3)=0, ReLU(2.1)=2.1). There are many other non-linear activation functions such as sigmoid, tanh, ELU, and variations on ReLU (e.g., Leaky ReLU). See more here: <a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6">https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6</a> </li>
 </ul>
-<p><img src="relu.png"></p>
+<p><img src=relu.png></p>
 <p><strong>Softmax layer:</strong> this layer is a vector of probabilities, where every neuron or element represents a category. This layer takes the activations as inputs, multiplies them by corresponding weights which are also learned, and finally applies a softmax function (which is multiclass sigmoid function). This softmax/sigmoid function squashes the input between 0 and 1 to obtain a probability distribution. This is useful because now each value in the resulting layer is what the model predicts the probability of each category to be.</p>
-<p><img src="softmax.png"></p>
+<p><img src=softmax.png></p>
 $$f(x) = \frac{1}{1+e^{-x}}$$<p><strong>sigmoid</strong> function in python:</p>
 
 </div>
