@@ -11,7 +11,7 @@ git clone https://github.com/danielmlow/nlp_tutorial.git
 2. go to directory with repository
 ```
 cd path/nlp_tutorial
-
+```
 
 3. Run jupyter notebook
 ```
@@ -28,13 +28,8 @@ jupyter (To install, follow steps here: http://jupyter.org/install )
 pandas
 numpy
 keras
-csv
-keras
 sklearn
 matplotlib
-math
 ipywidgets
-string
-re
 codecs
 
